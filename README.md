@@ -1,2 +1,2 @@
 # Fahrzeuganalyse
-Praxisprojekt Datenvisualisierung
+Praxisprojekt Datenvisualisierung Python
