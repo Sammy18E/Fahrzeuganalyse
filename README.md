@@ -2,11 +2,11 @@
 Praxisprojekt Datenvisualisierung Python
 
 
-Beschreibung:
+**Beschreibung:**
 Analysiere und visualisiere die Fahrzeugeigenschaften im Automobilforschungsdatensatz
 
 
-Aufgabenstellung:
+**Aufgabenstellung:**
 
 Deine Aufgabe ist es, geeignete Daten für das Projekt zu explorieren und zu analysieren.
 Visualisiere die wichtigsten Erkenntnisse in informativen Grafiken.
