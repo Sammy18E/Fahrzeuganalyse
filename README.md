@@ -84,7 +84,7 @@ Dieses Projekt wurde im Rahmen einer Weiterbildung durchgeführt und bewertet na
 ---
 
 ## **Projektstruktur**
-
+```text
 PRAXISPROJEKT FAHRZEUG/
 │
 ├── Fahrzeuganalyse/
@@ -105,7 +105,7 @@ PRAXISPROJEKT FAHRZEUG/
 ├── beispiel_frage6_sammy.py            # Beispielskript / Test
 ├── dropdown.py                         # UI-Beispielskript
 └── histograms.py                       # Zusatzfunktionen für Histogramme
-
+```
 **Hinweis:**  
 Die Datei **`fahrzeuge_sammy.ipynb`** ist das Kernstück des Projekts.  
 Andere Dateien entstanden während Teamarbeit, Tests oder Experimenten und gehören natürlich zum Entwicklungsprozess.
