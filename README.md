@@ -24,12 +24,13 @@ Visualisiere die wichtigsten Erkenntnisse in informativen Grafiken.
   
   ● Bewertungskriterien: Die Bewertung erfolgt in den Kategorien Datenanalyse, Projektarchitektur, Visualisierung und Präsentation.
 
+---
 
 # Fahrzeuganalyse – Datenexploration & Visualisierung in Python
 
 Dieses Projekt untersucht einen Automobil-Datensatz, analysiert relevante Fahrzeugeigenschaften und stellt die wichtigsten Erkenntnisse in Form klarer, informativer Visualisierungen dar.
 
-Ziel war es, anhand realer Daten typische Muster, Zusammenhänge und Besonderheiten im Fahrzeugmarkt sichtbar zu machen – von technischen Merkmalen bis hin zu Preis- und Verbrauchstrends.
+Ziel war es, anhand realer Daten typische Muster, Zusammenhänge und Besonderheiten im Fahrzeugmarkt sichtbar zu machen – von technischen Merkmalen bis hin zu Verbrauchstrends.
 
 ---
 
